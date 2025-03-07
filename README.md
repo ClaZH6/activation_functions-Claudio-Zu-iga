@@ -127,6 +127,4 @@ which pip
 pip install --upgrade pip
 
 =======
-# Activation.functions.delaGarza
-This repository contains various implementations of activation functions used in neural networks. Activation functions are a crucial component of neural networks as they introduce non-linearity, enabling the network to learn complex patterns in the data. 
-091ea335f5fe7a163a8a0922a38bc9fcd89318e3
+
